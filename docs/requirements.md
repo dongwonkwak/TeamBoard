@@ -44,11 +44,13 @@
 - RESTful API 설계
 - OAuth2를 이용한 인증 및 권한 관리
 - 데이터베이스: MySQL 또는 PostgreSQL
+- OpenAPI 사양을 사용하여 API를 정의하고, 이를 통해 백엔드 코드를 자동 생성
 
 ### 프론트엔드
 
 - Nuxt 3
 - Vue.js
+- OpenAPI 사양을 사용하여 API를 정의하고, 이를 통해 프론트엔드 코드를 자동 생성
 
 ## 비기능 요구 사항
 
